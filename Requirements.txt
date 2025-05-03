@@ -1,0 +1,17 @@
+| Library        | Purpose                             |
+| -------------- | ----------------------------------- |
+| `Django`       | Web framework                       |
+| `numpy`        | Numerical operations                |
+| `pandas`       | Data manipulation                   |
+| `scikit-learn` | For TF-IDF, cosine similarity, etc. |
+| `surprise`     | Collaborative filtering (SVD, etc.) |
+
+pip uninstall numpy
+
+pip install "numpy<2"
+
+pip install scikit-learn
+
+pip install pandas
+
+pip install django

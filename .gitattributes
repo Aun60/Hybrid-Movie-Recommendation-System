@@ -1,0 +1,4 @@
+Dataset/rating.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/genome_scores.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/movie.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/tag.csv filter=lfs diff=lfs merge=lfs -text
